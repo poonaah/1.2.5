@@ -1,0 +1,38 @@
+
+OptiFine_1.2.5_HD_A2
+Wed Apr 11 17:23:11 BST 2012
+OS: Windows 7 (amd64) version 6.1
+Java: 1.7.0_03, Oracle Corporation
+VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+LWJGL: 2.4.2
+OpenGL: GeForce GTX 560 Ti/PCIe/SSE2 version 4.2.0, NVIDIA Corporation
+OpenGL Version: 4.0
+TextureFX registered: net.minecraft.src.TextureLavaFX@50f36fcb, texId: 9, index: 237
+TextureFX registered: net.minecraft.src.TextureWaterFX@1e79d438, texId: 9, index: 205
+TextureFX registered: net.minecraft.src.TexturePortalFX@3597b4f6, texId: 9, index: 14
+TextureFX registered: net.minecraft.src.TextureCompassFX@410927f7, texId: 10, index: 54
+TextureFX registered: net.minecraft.src.TextureWatchFX@36971840, texId: 10, index: 70
+TextureFX registered: net.minecraft.src.TextureWaterFlowFX@79b92dbf, texId: 9, index: 206
+TextureFX registered: net.minecraft.src.TextureLavaFlowFX@6c6a9507, texId: 9, index: 238
+TextureFX registered: net.minecraft.src.TextureFlamesFX@495e362c, texId: 9, index: 31
+TextureFX registered: net.minecraft.src.TextureFlamesFX@4836a855, texId: 9, index: 47
+TextureFX removed: net.minecraft.src.TextureLavaFX@50f36fcb, texId: 9, index: 237
+TextureFX registered: net.minecraft.src.TextureHDLavaFX@24a019d6, texId: 9, index: 237
+TextureFX removed: net.minecraft.src.TextureWaterFX@1e79d438, texId: 9, index: 205
+TextureFX registered: net.minecraft.src.TextureHDWaterFX@b004363, texId: 9, index: 205
+TextureFX removed: net.minecraft.src.TexturePortalFX@3597b4f6, texId: 9, index: 14
+TextureFX registered: net.minecraft.src.TextureHDPortalFX@3e481e39, texId: 9, index: 14
+TextureFX removed: net.minecraft.src.TextureWaterFlowFX@79b92dbf, texId: 9, index: 206
+TextureFX registered: net.minecraft.src.TextureHDWaterFlowFX@70b85020, texId: 9, index: 206
+TextureFX removed: net.minecraft.src.TextureLavaFlowFX@6c6a9507, texId: 9, index: 238
+TextureFX registered: net.minecraft.src.TextureHDLavaFlowFX@54949eb0, texId: 9, index: 238
+TextureFX removed: net.minecraft.src.TextureFlamesFX@495e362c, texId: 9, index: 31
+TextureFX registered: net.minecraft.src.TextureHDFlamesFX@693e6031, texId: 9, index: 31
+TextureFX removed: net.minecraft.src.TextureFlamesFX@4836a855, texId: 9, index: 47
+TextureFX registered: net.minecraft.src.TextureHDFlamesFX@7e1d66f1, texId: 9, index: 47
+TextureFX removed: net.minecraft.src.TextureCompassFX@410927f7, texId: 10, index: 54
+TextureFX registered: net.minecraft.src.TextureHDCompassFX@ad62822, texId: 10, index: 54
+TextureFX removed: net.minecraft.src.TextureWatchFX@36971840, texId: 10, index: 70
+TextureFX registered: net.minecraft.src.TextureHDWatchFX@58430cb2, texId: 10, index: 70
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png

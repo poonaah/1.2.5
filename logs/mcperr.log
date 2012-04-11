@@ -1,0 +1,27 @@
+17:17:43 - !! Updates available. Please run updatemcp to get them. !!
+17:17:43 - !! Modified jar detected. Unpredictable results !!
+17:17:58 - 'runtime\bin\applydiff.exe -p1 -u -i ..\..\temp\temp.patch -d src\minecraft' failed : 1
+17:17:58 - 
+17:17:58 - == ERRORS FOUND ==
+17:17:58 - When decompiling with ModLoader a single hunk failure in RenderBlocks is expected and is not a problem
+17:17:58 - 
+17:17:58 - 1 out of 1 hunk FAILED -- saving rejects to file 'net\minecraft\src\GuiVideoSetti#'
+17:17:58 - 1 out of 1 hunk FAILED -- saving rejects to file 'net\minecraft\src\RenderBlocks.#'
+17:17:58 - 4 out of 4 hunks FAILED -- saving rejects to file 'net\minecraft\src\RenderGlobal.#'
+17:17:58 - ==================
+17:17:58 - 
+17:18:05 - !! Missing server jar file. Aborting !!
+17:18:09 - '"C:\Program Files\Java\jdk1.6.0_31\bin\javac" -Xlint:-options -deprecation -g -source 1.6 -target 1....' failed : 1
+17:18:09 - 
+17:18:09 - == ERRORS FOUND ==
+17:18:09 - 
+17:18:09 - src\minecraft\net\minecraft\src\RenderGlobal.java:703: possible loss of precision
+17:18:09 - found   : int
+17:18:09 - required: byte
+17:18:09 -                 byte byte3 = k1;
+17:18:09 -                              ^
+17:18:09 - 
+17:18:09 - 1 error
+17:18:09 - ==================
+17:18:09 - 
+17:18:09 - Initial client recompile failed, correct source then run updatemd5

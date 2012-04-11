@@ -1,0 +1,8 @@
+src\minecraft\net\minecraft\src\RenderGlobal.java:703: possible loss of precision
+found   : int
+required: byte
+                byte byte3 = k1;
+                             ^
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 error
